@@ -1,4 +1,8 @@
 # Accuknox_social_media_api
+### PostMan Collection Link
+Click "Import" in Postman and paste this link
+
+`https://api.postman.com/collections/18603598-37c8bf0e-70ff-4e3e-af35-df8f46d20969?access_key=PMAT-01J6WGWHXR4M9KPYZW3K0Y5Y6K`
 
 ### Building the Docker Image
 To build the Docker image, run the following command: 
